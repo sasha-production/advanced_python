@@ -1,0 +1,213 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.2 166660  9540 ?        Ss   мар04   0:02 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    мар04   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   мар04   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   мар04   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   мар04   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   мар04   0:00 [netns]
+root           8  0.0  0.0      0     0 ?        I<   мар04   0:00 [kworker/0:0H-events_highpri]
+root          11  0.0  0.0      0     0 ?        I<   мар04   0:00 [mm_percpu_wq]
+root          12  0.0  0.0      0     0 ?        I    мар04   0:00 [rcu_tasks_kthread]
+root          13  0.0  0.0      0     0 ?        I    мар04   0:00 [rcu_tasks_rude_kthread]
+root          14  0.0  0.0      0     0 ?        I    мар04   0:00 [rcu_tasks_trace_kthread]
+root          15  0.0  0.0      0     0 ?        S    мар04   0:00 [ksoftirqd/0]
+root          16  0.0  0.0      0     0 ?        I    мар04   0:03 [rcu_preempt]
+root          17  0.0  0.0      0     0 ?        S    мар04   0:00 [migration/0]
+root          18  0.0  0.0      0     0 ?        S    мар04   0:00 [idle_inject/0]
+root          19  0.0  0.0      0     0 ?        S    мар04   0:00 [cpuhp/0]
+root          20  0.0  0.0      0     0 ?        S    мар04   0:00 [cpuhp/1]
+root          21  0.0  0.0      0     0 ?        S    мар04   0:00 [idle_inject/1]
+root          22  0.0  0.0      0     0 ?        S    мар04   0:00 [migration/1]
+root          23  0.0  0.0      0     0 ?        S    мар04   0:00 [ksoftirqd/1]
+root          25  0.0  0.0      0     0 ?        I<   мар04   0:00 [kworker/1:0H-events_highpri]
+root          26  0.0  0.0      0     0 ?        S    мар04   0:00 [kdevtmpfs]
+root          27  0.0  0.0      0     0 ?        I<   мар04   0:00 [inet_frag_wq]
+root          29  0.0  0.0      0     0 ?        S    мар04   0:00 [kauditd]
+root          30  0.0  0.0      0     0 ?        S    мар04   0:00 [khungtaskd]
+root          32  0.0  0.0      0     0 ?        S    мар04   0:00 [oom_reaper]
+root          33  0.0  0.0      0     0 ?        I<   мар04   0:00 [writeback]
+root          34  0.0  0.0      0     0 ?        S    мар04   0:00 [kcompactd0]
+root          35  0.0  0.0      0     0 ?        SN   мар04   0:00 [ksmd]
+root          37  0.0  0.0      0     0 ?        SN   мар04   0:00 [khugepaged]
+root          38  0.0  0.0      0     0 ?        I<   мар04   0:00 [kintegrityd]
+root          39  0.0  0.0      0     0 ?        I<   мар04   0:00 [kblockd]
+root          40  0.0  0.0      0     0 ?        I<   мар04   0:00 [blkcg_punt_bio]
+root          41  0.0  0.0      0     0 ?        I<   мар04   0:00 [tpm_dev_wq]
+root          42  0.0  0.0      0     0 ?        I<   мар04   0:00 [ata_sff]
+root          43  0.0  0.0      0     0 ?        I<   мар04   0:00 [md]
+root          44  0.0  0.0      0     0 ?        I<   мар04   0:00 [md_bitmap]
+root          45  0.0  0.0      0     0 ?        I<   мар04   0:00 [edac-poller]
+root          46  0.0  0.0      0     0 ?        I<   мар04   0:00 [devfreq_wq]
+root          47  0.0  0.0      0     0 ?        S    мар04   0:00 [watchdogd]
+root          48  0.0  0.0      0     0 ?        I<   мар04   0:00 [kworker/1:1H-kblockd]
+root          49  0.1  0.0      0     0 ?        S    мар04   0:05 [kswapd0]
+root          50  0.0  0.0      0     0 ?        S    мар04   0:00 [ecryptfs-kthread]
+root          51  0.0  0.0      0     0 ?        I<   мар04   0:00 [kthrotld]
+root          52  0.0  0.0      0     0 ?        I<   мар04   0:00 [acpi_thermal_pm]
+root          53  0.0  0.0      0     0 ?        S    мар04   0:00 [scsi_eh_0]
+root          54  0.0  0.0      0     0 ?        I<   мар04   0:00 [scsi_tmf_0]
+root          55  0.0  0.0      0     0 ?        S    мар04   0:00 [scsi_eh_1]
+root          56  0.0  0.0      0     0 ?        I<   мар04   0:00 [scsi_tmf_1]
+root          60  0.0  0.0      0     0 ?        I<   мар04   0:00 [mld]
+root          61  0.0  0.0      0     0 ?        I<   мар04   0:00 [kworker/0:1H-kblockd]
+root          62  0.0  0.0      0     0 ?        I<   мар04   0:00 [ipv6_addrconf]
+root          70  0.0  0.0      0     0 ?        I<   мар04   0:00 [kstrp]
+root          72  0.0  0.0      0     0 ?        I<   мар04   0:00 [kworker/u5:0]
+root          76  0.0  0.0      0     0 ?        I<   мар04   0:00 [charger_manager]
+root         120  0.0  0.0      0     0 ?        S    мар04   0:00 [scsi_eh_2]
+root         121  0.0  0.0      0     0 ?        I<   мар04   0:00 [scsi_tmf_2]
+root         150  0.0  0.0      0     0 ?        S    мар04   0:00 [jbd2/sda3-8]
+root         151  0.0  0.0      0     0 ?        I<   мар04   0:00 [ext4-rsv-conver]
+root         190  0.0  0.3  48260 13648 ?        S<s  мар04   0:00 /lib/systemd/systemd-journald
+root         219  0.0  0.0      0     0 ?        S    мар04   0:00 [irq/18-vmwgfx]
+root         220  0.0  0.0      0     0 ?        I<   мар04   0:00 [ttm]
+root         221  0.0  0.0  26992  3576 ?        Ss   мар04   0:00 /lib/systemd/systemd-udevd
+root         321  0.0  0.0      0     0 ?        I<   мар04   0:00 [cryptd]
+systemd+     422  0.1  0.1  14836  4992 ?        Ss   мар04   0:05 /lib/systemd/systemd-oomd
+systemd+     428  0.0  0.1  25672  6724 ?        Ss   мар04   0:00 /lib/systemd/systemd-resolved
+systemd+     492  0.0  0.1  89388  5632 ?        Ssl  мар04   0:00 /lib/systemd/systemd-timesyncd
+root         631  0.0  0.1 248560  7236 ?        Ssl  мар04   0:00 /usr/libexec/accounts-daemon
+root         632  0.0  0.0   2816  1792 ?        Ss   мар04   0:00 /usr/sbin/acpid
+avahi        636  0.0  0.0   7628  3456 ?        Ss   мар04   0:00 avahi-daemon: running [user-VirtualBox.local]
+root         638  0.0  0.0  18152  2816 ?        Ss   мар04   0:00 /usr/sbin/cron -f -P
+message+     641  0.0  0.1  11052  5760 ?        Ss   мар04   0:02 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         644  0.0  0.2 269796 11700 ?        Ssl  мар04   0:00 /usr/sbin/NetworkManager --no-daemon
+root         652  0.0  0.0  82700  3584 ?        Ssl  мар04   0:00 /usr/sbin/irqbalance --foreground
+root         655  0.0  0.1  49692  7532 ?        Ss   мар04   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         658  0.0  0.2 251576  8652 ?        Ssl  мар04   0:02 /usr/libexec/polkitd --no-debug
+root         661  0.0  0.1 248720  6656 ?        Ssl  мар04   0:00 /usr/libexec/power-profiles-daemon
+syslog       662  0.0  0.1 222404  4224 ?        Ssl  мар04   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         669  0.0  0.3 1319488 14780 ?       Ssl  мар04   0:02 /usr/lib/snapd/snapd
+root         676  0.0  0.1 245036  6784 ?        Ssl  мар04   0:00 /usr/libexec/switcheroo-control
+root         679  0.0  0.1  23648  5684 ?        Ss   мар04   0:00 /lib/systemd/systemd-logind
+root         680  0.0  0.2 392992  8512 ?        Ssl  мар04   0:00 /usr/libexec/udisks2/udisksd
+root         689  0.0  0.0  16504  3968 ?        Ss   мар04   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        705  0.0  0.0   7444   908 ?        S    мар04   0:00 avahi-daemon: chroot helper
+root         727  0.0  0.1 317964  6564 ?        Ssl  мар04   0:00 /usr/sbin/ModemManager
+root         729  0.0  0.2  81672  9344 ?        Ss   мар04   0:00 /usr/sbin/cupsd -l
+lp           752  0.0  0.1  16288  4224 ?        S    мар04   0:00 /usr/lib/cups/notifier/dbus dbus://
+lp           753  0.0  0.1  16288  4096 ?        S    мар04   0:00 /usr/lib/cups/notifier/dbus dbus://
+root         771  0.0  0.2 126808  8960 ?        Ssl  мар04   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         789  0.0  0.1 172632  7680 ?        Ssl  мар04   0:00 /usr/sbin/cups-browsed
+kernoops     807  0.0  0.0  13088  2084 ?        Ss   мар04   0:00 /usr/sbin/kerneloops --test
+kernoops     820  0.0  0.0  13088  1812 ?        Ss   мар04   0:00 /usr/sbin/kerneloops
+root        1775  0.0  0.0 284092  2048 ?        Sl   мар04   0:01 /usr/bin/VBoxDRMClient
+root        1778  0.0  0.0 290148  2960 ?        Sl   мар04   0:00 /usr/sbin/VBoxService --pidfile /var/run/vboxadd-service.sh
+root        2278  0.0  0.2 250004  8320 ?        Ssl  мар04   0:00 /usr/sbin/gdm3
+rtkit       2307  0.0  0.0 154004  3200 ?        SNsl мар04   0:00 /usr/libexec/rtkit-daemon
+root        2394  0.0  0.1 251024  7808 ?        Ssl  мар04   0:00 /usr/libexec/upowerd
+root        2400  0.0  0.2 306884 11716 ?        Ssl  мар04   0:00 /usr/libexec/packagekitd
+colord      2562  0.0  0.2 253988  8236 ?        Ssl  мар04   0:00 /usr/libexec/colord
+root        2622  0.0  0.2 326852  9292 ?        Sl   мар04   0:00 gdm-session-worker [pam/gdm-password]
+user        2632  0.0  0.1  17936  7808 ?        Ss   мар04   0:01 /lib/systemd/systemd --user
+user        2633  0.0  0.0 169944  3148 ?        S    мар04   0:00 (sd-pam)
+user        2639  0.0  0.1  48228  4096 ?        S<sl мар04   0:00 /usr/bin/pipewire
+user        2640  0.0  0.0  32116  3712 ?        Ssl  мар04   0:00 /usr/bin/pipewire-media-session
+user        2641  0.0  0.2 1431152 11420 ?       S<sl мар04   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+user        2644  0.0  0.1 1079476 6016 ?        Ssl  мар04   0:00 /usr/bin/ubuntu-report service
+user        2649  0.0  0.1 249556  6816 ?        Sl   мар04   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+user        2664  0.0  0.1 171044  5888 tty2     Ssl+ мар04   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+user        2666  0.0  0.1  10896  6528 ?        Ss   мар04   0:02 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+user        2674  0.0  0.3 231696 12928 tty2     Sl+  мар04   0:00 /usr/libexec/gnome-session-binary --session=ubuntu
+user        2679  0.0  0.1 545560  7040 ?        Ssl  мар04   0:00 /usr/libexec/xdg-document-portal
+user        2687  0.0  0.1 244800  6144 ?        Ssl  мар04   0:00 /usr/libexec/xdg-permission-store
+root        2704  0.0  0.0   2796  1792 ?        Ss   мар04   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+user        2740  0.0  0.1 100564  5248 ?        Ssl  мар04   0:00 /usr/libexec/gnome-session-ctl --monitor
+root        2751  0.0  0.0      0     0 ?        I    мар04   0:01 [kworker/1:5-events]
+user        2753  0.0  0.1 249300  7552 ?        Ssl  мар04   0:00 /usr/libexec/gvfsd
+user        2758  0.0  0.1 380892  6144 ?        Sl   мар04   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+user        2759  0.0  0.3 601648 15104 ?        Ssl  мар04   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+user        2792  7.6  8.4 4750884 337324 ?      Ssl  мар04   5:00 /usr/bin/gnome-shell
+user        2793  0.0  0.1 309616  7296 ?        Sl   мар04   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+user        2803  0.0  0.1   8564  4096 ?        S    мар04   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+user        2855  0.0  0.2 582728 11520 ?        Sl   мар04   0:00 /usr/libexec/gnome-shell-calendar-server
+user        2861  0.0  0.4 1080868 18176 ?       Ssl  мар04   0:00 /usr/libexec/evolution-source-registry
+user        2869  0.0  0.4 587120 17280 ?        Sl   мар04   0:00 /usr/libexec/goa-daemon
+user        2870  0.0  0.2 398384  9472 ?        Ssl  мар04   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+user        2873  0.0  0.4 849116 19072 ?        Ssl  мар04   0:00 /usr/libexec/evolution-calendar-factory
+user        2880  0.0  0.1 246196  6528 ?        Ssl  мар04   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+user        2887  0.0  0.1 245116  6400 ?        Ssl  мар04   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+user        2893  0.0  0.3 347056 12160 ?        Sl   мар04   0:00 /usr/libexec/goa-identity-service
+user        2899  0.0  0.1 323864  7040 ?        Ssl  мар04   0:00 /usr/libexec/gvfs-afc-volume-monitor
+user        2905  0.0  0.1 156936  5760 ?        Ssl  мар04   0:00 /usr/libexec/dconf-service
+user        2907  0.0  0.3 754616 15232 ?        Ssl  мар04   0:00 /usr/libexec/evolution-addressbook-factory
+user        2915  0.0  0.1 245288  6144 ?        Ssl  мар04   0:00 /usr/libexec/gvfs-goa-volume-monitor
+user        2933  0.0  0.2 323520  8192 ?        Sl   мар04   0:00 /usr/libexec/gvfsd-trash --spawner :1.14 /org/gtk/gvfs/exec_spaw/0
+user        2944  0.0  0.5 2608072 22476 ?       Sl   мар04   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+user        2946  0.0  0.1 162684  7040 ?        Sl   мар04   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+user        2959  0.0  0.0   2892  1536 ?        Ss   мар04   0:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+user        2961  0.1  0.2 324208  8320 ?        Sl   мар04   0:05 /usr/bin/ibus-daemon --panel disable
+user        2962  0.0  0.1 319072  6400 ?        Ssl  мар04   0:00 /usr/libexec/gsd-a11y-settings
+user        2965  0.0  0.4 385988 19204 ?        Ssl  мар04   0:00 /usr/libexec/gsd-color
+user        2966  0.0  0.3 384116 13056 ?        Ssl  мар04   0:00 /usr/libexec/gsd-datetime
+user        2970  0.0  0.1 320572  7552 ?        Ssl  мар04   0:00 /usr/libexec/gsd-housekeeping
+user        2971  0.0  0.4 349256 17156 ?        Ssl  мар04   0:00 /usr/libexec/gsd-keyboard
+user        2979  0.0  0.4 651632 19844 ?        Ssl  мар04   0:00 /usr/libexec/gsd-media-keys
+user        2982  0.0  0.5 385500 20612 ?        Ssl  мар04   0:00 /usr/libexec/gsd-power
+user        2983  0.0  0.2 258508  8576 ?        Ssl  мар04   0:00 /usr/libexec/gsd-print-notifications
+user        2985  0.0  0.1 466512  6528 ?        Ssl  мар04   0:00 /usr/libexec/gsd-rfkill
+user        2987  0.0  0.1 244944  6144 ?        Ssl  мар04   0:00 /usr/libexec/gsd-screensaver-proxy
+user        2989  0.0  0.1 474588  7680 ?        Ssl  мар04   0:00 /usr/libexec/gsd-sharing
+user        2994  0.0  0.1 320960  7168 ?        Ssl  мар04   0:00 /usr/libexec/gsd-smartcard
+user        2999  0.0  0.2 327992  8192 ?        Ssl  мар04   0:00 /usr/libexec/gsd-sound
+user        3010  0.0  0.4 349836 17284 ?        Ssl  мар04   0:00 /usr/libexec/gsd-wacom
+user        3021  0.0  0.1 232268  6272 ?        Sl   мар04   0:00 /usr/libexec/gsd-disk-utility-notify
+user        3035  0.0  0.2  76256  9984 ?        Ss   мар04   0:00 /snap/snapd-desktop-integration/83/usr/bin/snapd-desktop-integration
+user        3051  0.0  0.1 172136  6784 ?        Sl   мар04   0:00 /usr/libexec/ibus-memconf
+user        3052  0.1  0.4 356484 18804 ?        Sl   мар04   0:04 /usr/libexec/ibus-extension-gtk3
+user        3060  0.0  0.1 245916  7040 ?        Sl   мар04   0:00 /usr/libexec/ibus-portal
+user        3066  0.0  0.8 967120 33020 ?        Sl   мар04   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+user        3130  0.0  0.0  28716  1052 ?        S    мар04   0:00 /usr/bin/VBoxClient --clipboard
+user        3131  0.0  0.0 226904  3228 ?        Sl   мар04   0:00 /usr/bin/VBoxClient --clipboard
+user        3146  0.0  0.2 351016 11904 ?        Sl   мар04   0:00 /usr/libexec/gsd-printer
+user        3184  0.2  0.7 221648 31424 ?        S    мар04   0:11 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.XZ92J2 -listen 4 -listen 5 -displayfd 6 -initfd 7
+user        3199  0.0  0.3 306132 12248 ?        Sl   мар04   0:00 /snap/snapd-desktop-integration/83/usr/bin/snapd-desktop-integration
+user        3207  0.0  0.2 632512 11136 ?        Ssl  мар04   0:00 /usr/libexec/xdg-desktop-portal
+user        3211  0.0  0.4 671032 16432 ?        Ssl  мар04   0:00 /usr/libexec/xdg-desktop-portal-gnome
+user        3212  0.0  0.1 172136  7168 ?        Sl   мар04   0:01 /usr/libexec/ibus-engine-simple
+user        3219  0.0  0.1 171684  6272 ?        Ssl  мар04   0:00 /usr/libexec/gvfsd-metadata
+user        3254  0.0  0.4 353120 19828 ?        Ssl  мар04   0:00 /usr/libexec/xdg-desktop-portal-gtk
+user        3262  0.0  0.4 656544 17808 ?        SNsl мар04   0:01 /usr/libexec/tracker-miner-fs-3
+user        3288  0.0  0.6 2608200 24596 ?       Sl   мар04   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+user        3290  0.0  0.7 539892 28400 ?        Ssl  мар04   0:00 /usr/libexec/gsd-xsettings
+user        3333  0.0  0.4 202916 19364 ?        Sl   мар04   0:00 /usr/libexec/ibus-x11
+user        3353  0.0  0.0  28716  1152 ?        S    мар04   0:00 /usr/bin/VBoxClient --seamless
+user        3354  0.0  0.0 227004  2560 ?        Sl   мар04   0:03 /usr/bin/VBoxClient --seamless
+user        3367  0.0  0.0  28716  1152 ?        S    мар04   0:00 /usr/bin/VBoxClient --draganddrop
+user        3368  0.1  0.0 227520  2560 ?        Sl   мар04   0:07 /usr/bin/VBoxClient --draganddrop
+user        3380  0.0  0.0  28716  1024 ?        S    мар04   0:00 /usr/bin/VBoxClient --vmsvga-session
+user        3381  0.0  0.0 160820  1664 ?        Sl   мар04   0:00 /usr/bin/VBoxClient --vmsvga-session
+user        3444  0.1  1.1 566028 44284 ?        Ssl  мар04   0:07 /usr/libexec/gnome-terminal-server
+user        3462  0.0  0.0  19924  3968 pts/0    Ss   мар04   0:00 bash
+user        3478  0.0  0.6 502740 25988 ?        Sl   мар04   0:00 update-notifier
+user        3542  0.1  1.0 811436 41112 ?        Sl   мар04   0:07 /usr/bin/nautilus --gapplication-service
+user        3713  0.0  0.6 901224 24676 ?        Sl   мар04   0:00 /usr/bin/gnome-calendar --gapplication-service
+user        3716  0.0  0.5 1016272 21032 ?       SLl  мар04   0:00 /usr/bin/seahorse --gapplication-service
+user        3853  0.0  0.0  19668  3456 pts/1    Ss   мар04   0:00 bash
+user        3860 22.4 49.0 6286620 1961788 pts/1 SLl+ мар04  10:36 /home/user/Downloads/pycharm-community-2023.3.4/jbr/bin/java -classpath /home/user/Downloads/pycharm-community-2023.3.4/lib/platform-loader.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/util-8.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/util.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/app-client.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/util_rt.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/app.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/lib-client.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/modules.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/lib.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/stats.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/jps-model.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/external-system-rt.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/rd.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/protobuf.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/bouncy-castle.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/forms_rt.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/intellij-test-discovery.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/annotations.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/groovy.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/externalProcess-rt.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/byte-buddy-agent.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/error-prone-annotations.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/grpc.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/intellij-coverage-agent-1.0.738.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/jsch-agent.jar:/home/user/Downloads/pycharm-community-2023.3.4/lib/junit4.jar -XX:ErrorFile=/home/user/java_error_in_pycharm_%p.log -XX:HeapDumpPath=/home/user/java_error_in_pycharm_.hprof -Xms256m -Xmx1500m -XX:ReservedCodeCacheSize=512m -XX:+UseG1GC -XX:SoftRefLRUPolicyMSPerMB=50 -XX:CICompilerCount=2 -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -XX:+IgnoreUnrecognizedVMOptions -XX:CompileCommand=exclude,com/intellij/openapi/vfs/impl/FilePartNodeRoot,trieDescend -ea -Dsun.io.useCanonCaches=false -Dsun.java2d.metal=true -Djbr.catch.SIGABRT=true -Djdk.http.auth.tunneling.disabledSchemes="" -Djdk.attach.allowAttachSelf=true -Djdk.module.illegalAccess.silent=true -Dkotlinx.coroutines.debug=off -Dide.show.tips.on.startup.default.value=false -Dsun.tools.attach.tmp.only=true -Dawt.lock.fair=true -Djb.vmOptionsFile=/home/user/Downloads/pycharm-community-2023.3.4/bin/pycharm64.vmoptions -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader -Didea.vendor.name=JetBrains -Didea.paths.selector=PyCharmCE2023.3 -Djna.boot.library.path=/home/user/Downloads/pycharm-community-2023.3.4/lib/jna/amd64 -Dpty4j.preferred.native.folder=/home/user/Downloads/pycharm-community-2023.3.4/lib/pty4j -Djna.nosys=true -Djna.noclasspath=true -Dintellij.platform.runtime.repository.path=/home/user/Downloads/pycharm-community-2023.3.4/modules/module-descriptors.jar -Didea.platform.prefix=PyCharmCore -Dsplash=true -Daether.connector.resumeDownloads=false --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.ref=ALL-UNNAMED --add-opens=java.base/java.lang.reflect=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.nio=ALL-UNNAMED --add-opens=java.base/java.nio.charset=ALL-UNNAMED --add-opens=java.base/java.text=ALL-UNNAMED --add-opens=java.base/java.time=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.locks=ALL-UNNAMED --add-opens=java.base/jdk.internal.vm=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-opens=java.base/sun.nio.fs=ALL-UNNAMED --add-opens=java.base/sun.security.ssl=ALL-UNNAMED --add-opens=java.base/sun.security.util=ALL-UNNAMED --add-opens=java.base/sun.net.dns=ALL-UNNAMED --add-opens=java.desktop/com.sun.java.swing.plaf.gtk=ALL-UNNAMED --add-opens=java.desktop/java.awt=ALL-UNNAMED --add-opens=java.desktop/java.awt.dnd.peer=ALL-UNNAMED --add-opens=java.desktop/java.awt.event=ALL-UNNAMED --add-opens=java.desktop/java.awt.image=ALL-UNNAMED --add-opens=java.desktop/java.awt.peer=ALL-UNNAMED --add-opens=java.desktop/java.awt.font=ALL-UNNAMED --add-opens=java.desktop/javax.swing=ALL-UNNAMED --add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED --add-opens=java.desktop/javax.swing.text.html=ALL-UNNAMED --add-opens=java.desktop/sun.awt.X11=ALL-UNNAMED --add-opens=java.desktop/sun.awt.datatransfer=ALL-UNNAMED --add-opens=java.desktop/sun.awt.image=ALL-UNNAMED --add-opens=java.desktop/sun.awt=ALL-UNNAMED --add-opens=java.desktop/sun.font=ALL-UNNAMED --add-opens=java.desktop/sun.java2d=ALL-UNNAMED --add-opens=java.desktop/sun.swing=ALL-UNNAMED --add-opens=java.desktop/com.sun.java.swing=ALL-UNNAMED --add-opens=jdk.attach/sun.tools.attach=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED --add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED --add-opens=jdk.jdi/com.sun.tools.jdi=ALL-UNNAMED com.intellij.idea.Main
+user        3961  0.0  0.0   3844  1792 pts/1    S+   мар04   0:00 /home/user/Downloads/pycharm-community-2023.3.4/bin/fsnotifier
+uuidd       4292  0.0  0.0  20456  2944 ?        Ss   мар04   0:00 /usr/sbin/uuidd --socket-activation
+user        4364  3.2 14.7 3291924 591608 ?      Sl   мар04   1:15 /snap/firefox/3836/usr/lib/firefox/firefox
+user        4514  0.0  1.2 209296 48640 ?        Sl   мар04   0:00 /snap/firefox/3836/usr/lib/firefox/firefox -contentproc -parentBuildID 20240214103141 -prefsLen 30600 -prefMapSize 237015 -appDir /snap/firefox/3836/usr/lib/firefox/browser {8c1bad79-4167-46bb-995a-db3eb5928dab} 4364 true socket
+user        4532  0.0  2.8 2438364 114248 ?      Sl   мар04   0:02 /snap/firefox/3836/usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 30786 -prefMapSize 237015 -jsInitLen 235124 -parentBuildID 20240214103141 -greomni /snap/firefox/3836/usr/lib/firefox/omni.ja -appomni /snap/firefox/3836/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/3836/usr/lib/firefox/browser {269c0bb8-a222-476a-a518-48e7af0f7eee} 4364 true tab
+user        4566  0.0  0.4 1163164 18432 ?       Sl   мар04   0:00 /usr/bin/snap userd
+user        4705  0.0  2.3 2422020 92144 ?       Sl   мар04   0:00 /snap/firefox/3836/usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 35979 -prefMapSize 237015 -jsInitLen 235124 -parentBuildID 20240214103141 -greomni /snap/firefox/3836/usr/lib/firefox/omni.ja -appomni /snap/firefox/3836/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/3836/usr/lib/firefox/browser {5f7cdf91-584c-45ba-85c1-9c7025b34548} 4364 true tab
+user        4991  0.0  1.3 326688 55552 ?        Sl   мар04   0:00 /snap/firefox/3836/usr/lib/firefox/firefox -contentproc -parentBuildID 20240214103141 -sandboxingKind 0 -prefsLen 36033 -prefMapSize 237015 -appDir /snap/firefox/3836/usr/lib/firefox/browser {4cda3904-5558-4cc4-8bab-809adfc3e44c} 4364 true utility
+root        5092  0.0  0.0      0     0 ?        I    мар04   0:00 [kworker/0:2-ata_sff]
+user        5150  0.6  4.6 2596800 185464 ?      Sl   мар04   0:13 /snap/firefox/3836/usr/lib/firefox/firefox -contentproc -childID 8 -isForBrowser -prefsLen 30827 -prefMapSize 237015 -jsInitLen 235124 -parentBuildID 20240214103141 -greomni /snap/firefox/3836/usr/lib/firefox/omni.ja -appomni /snap/firefox/3836/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/3836/usr/lib/firefox/browser {6914d299-8a45-4b0d-9d1d-2baa4a9ed743} 4364 true tab
+root        5279  0.0  0.0      0     0 ?        I    мар04   0:00 [kworker/u4:1-events_power_efficient]
+user        5325  0.0  0.2 290356 11008 ?        Sl   мар04   0:00 /usr/libexec/gvfsd-http --spawner :1.14 /org/gtk/gvfs/exec_spaw/1
+user        6238  0.3  4.9 2628348 198424 ?      Sl   мар04   0:06 /snap/firefox/3836/usr/lib/firefox/firefox -contentproc -childID 10 -isForBrowser -prefsLen 30827 -prefMapSize 237015 -jsInitLen 235124 -parentBuildID 20240214103141 -greomni /snap/firefox/3836/usr/lib/firefox/omni.ja -appomni /snap/firefox/3836/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/3836/usr/lib/firefox/browser {719fc74b-57d8-444d-9aeb-da63b99571d8} 4364 true tab
+root        6288  0.0  0.0      0     0 ?        I    мар04   0:00 [kworker/u4:3-events_power_efficient]
+root        6347  0.0  0.0      0     0 ?        I    мар04   0:00 [kworker/0:0-cgroup_destroy]
+user        6377  0.1  1.5 2741112 62832 ?       Sl   мар04   0:00 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:1920:954:1:27:0:0:0:0
+user        6431  0.0  1.7 2388604 71540 ?       Sl   мар04   0:00 /snap/firefox/3836/usr/lib/firefox/firefox -contentproc -childID 11 -isForBrowser -prefsLen 30827 -prefMapSize 237015 -jsInitLen 235124 -parentBuildID 20240214103141 -greomni /snap/firefox/3836/usr/lib/firefox/omni.ja -appomni /snap/firefox/3836/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/3836/usr/lib/firefox/browser {449af5ef-b298-4f76-8240-314c4aa38544} 4364 true tab
+root        6454  0.0  0.0      0     0 ?        I    мар04   0:00 [kworker/1:0-events]
+user        6471  0.0  1.7 2388604 71680 ?       Sl   мар04   0:00 /snap/firefox/3836/usr/lib/firefox/firefox -contentproc -childID 12 -isForBrowser -prefsLen 30827 -prefMapSize 237015 -jsInitLen 235124 -parentBuildID 20240214103141 -greomni /snap/firefox/3836/usr/lib/firefox/omni.ja -appomni /snap/firefox/3836/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/3836/usr/lib/firefox/browser {6ba7334c-8cc7-4f7c-884d-d33f8592c69c} 4364 true tab
+user        6504  0.0  1.3 325404 54784 ?        Sl   мар04   0:00 /snap/firefox/3836/usr/lib/firefox/firefox -contentproc -parentBuildID 20240214103141 -prefsLen 36218 -prefMapSize 237015 -appDir /snap/firefox/3836/usr/lib/firefox/browser {2b42da45-bff8-4881-b939-f99a96bf605e} 4364 true rdd
+user        6512  0.0  1.7 2388608 71040 ?       Sl   мар04   0:00 /snap/firefox/3836/usr/lib/firefox/firefox -contentproc -childID 13 -isForBrowser -prefsLen 30827 -prefMapSize 237015 -jsInitLen 235124 -parentBuildID 20240214103141 -greomni /snap/firefox/3836/usr/lib/firefox/omni.ja -appomni /snap/firefox/3836/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/3836/usr/lib/firefox/browser {ada1afac-a84e-4edc-b67e-1447fbd22be8} 4364 true tab
+root        6539  0.0  0.0      0     0 ?        I    мар04   0:00 [kworker/u4:0-events_freezable_power_]
+user        6549  0.1  0.1  20076  5248 pts/2    Ss+  мар04   0:00 /bin/bash --rcfile /home/user/Downloads/pycharm-community-2023.3.4/plugins/terminal/shell-integrations/bash/bash-integration.bash -i
+user        6564  0.4  0.8 203292 35536 pts/1    Sl+  мар04   0:01 /home/user/venv/bin/python3.10 /home/user/Downloads/pycharm-community-2023.3.4/plugins/python-ce/helpers/pydev/pydevconsole.py --mode=client --host=127.0.0.1 --port=37361
+root        6675  0.0  0.0      0     0 ?        I    00:00   0:00 [kworker/0:1]
+user        6681  0.0  0.0  21328  3328 pts/0    R+   00:03   0:00 ps aux
