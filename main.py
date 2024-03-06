@@ -14,7 +14,7 @@ BOOK_FILE = os.path.join(BASE_DIR, 'war_and_peace.txt')
 counter = 0
 @app.route('/')
 def index():
-    return '<h1>main_page</h1>'
+    return '<h1>main_empty_page</h1>'
 
 @app.route('/hello_world')
 def hello_world_view():
