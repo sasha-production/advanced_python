@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 
 @app.route('/max_number/<path:line>')
-def hello_world(line):
+def search_max_number(line):
     res = all(map(lambda x: x.isdigit(), line.split('/')))
     if res:
         return f'макмальное число: {max([int(val) for val in line.split("/")])}'
