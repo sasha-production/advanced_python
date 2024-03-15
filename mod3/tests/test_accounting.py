@@ -3,10 +3,6 @@ import unittest
 
 
 class MyTest(unittest.TestCase):
-    def setUp(self) -> None:
-        app.config['TESTING'] = True
-        app.config['DEBUG'] = True
-        self.app = app.test_client()
 
     @classmethod
     def setUpClass(cls):
