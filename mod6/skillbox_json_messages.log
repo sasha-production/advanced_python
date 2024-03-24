@@ -1,0 +1,5 @@
+{"time": "16:04:59", "level": "INFO", "message": "Сообщение"}
+{"time": "16:04:59", "level": "DEBUG", "message": "Сообщение1"}
+{"time": "16:04:59", "level": "INFO", "message": "Сообщение2"}
+{"time": "16:04:59", "level": "WARNING", "message": "message dog "}
+{"time": "16:04:59", "level": "WARNING", "message": "message !!"}
