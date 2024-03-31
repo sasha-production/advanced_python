@@ -1,0 +1,21 @@
+<--""
+   Level WARNING
+   |
+   o<--"my_logger"
+       Level DEBUG
+       Handler File 'C:\\Users\\sasha\\Documents\\GitHub\\advanced_python\\mod7\\calc_debug.log'
+         Level DEBUG
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)s | %(message)s' datefmt=None
+       Handler File 'C:\\Users\\sasha\\Documents\\GitHub\\advanced_python\\mod7\\calc_error.log'
+         Level ERROR
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)s | %(message)s' datefmt=None
+       Handler Stream <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)s | %(message)s' datefmt=None
+       Handler File 'C:\\Users\\sasha\\Documents\\GitHub\\advanced_python\\mod7\\calc_debug.log'
+         Level DEBUG
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)s | %(message)s' datefmt=None
+       Handler File 'C:\\Users\\sasha\\Documents\\GitHub\\advanced_python\\mod7\\calc_error.log'
+         Level ERROR
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)s | %(message)s' datefmt=None
+       Handler Stream <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)s | %(message)s' datefmt=None
