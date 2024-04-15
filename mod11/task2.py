@@ -31,7 +31,8 @@ def consistently_fun():
                             (person, age, sex))
 
     end = time.perf_counter()
-    print(end - start)  # 10.236898
+    print(end - start)
+
 
 def make_response(index):
     with requests.get(f"https://swapi.dev/api/people/{index}/") as response:
@@ -62,7 +63,6 @@ def main():
     create_databases()
     consistently_fun()  # 9.168106799945235
     multitradeing_fun()  # 2.4134755998384207
-
 
 
 if __name__ == '__main__':
