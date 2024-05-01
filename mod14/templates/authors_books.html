@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="form-style-10">
+    <h1>Get_books</h1>
+    <form action="/books/author" method="post">
+        <div class="section"><span>1</span>Get all books from author</div>
+        <div class="inner-wrap">
+            <label>Author<input type="text" name="author"/></label>
+        </div>
+        <div class="button-section">
+            <input type="submit" name="Get books"/>
+        </div>
+    </form>
+</div>
+<div class="book-list">
+    <h2>Список книг</h2>
+    {% if books %}
+    <ul>
+        {% for book in books %}
+        <li>{{ book }}</li>
+        {% endfor %}
+    </ul>
+    {% else %}
+        <h2> Sorry, no books in BD or authors name is iccorrect. </h2>
+    {% endif %}
+</div>
+{% endblock %}
