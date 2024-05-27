@@ -23,6 +23,7 @@ class Book(Base):
     def to_json(self):
         return {c.name: getattr(self, c.name) for c in self.__table__.columns}
 
+
 class Author(Base):
     __tablename__ = 'authors'
     id = Column(Integer, primary_key=True)
